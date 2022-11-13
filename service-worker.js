@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/interstellar/precache-manifest.6e4baff26174817f2f94e40b849ba77f.js"
+  "/interstellar/precache-manifest.39f018949881dc6e571a526f2168f56f.js"
 );
 
 workbox.clientsClaim();
