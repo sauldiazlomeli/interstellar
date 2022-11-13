@@ -1,0 +1,16 @@
+{
+  "main.css": "/interstellar/static/css/main.9ea1c2f9.chunk.css",
+  "main.js": "/interstellar/static/js/main.87cfda33.chunk.js",
+  "main.js.map": "/interstellar/static/js/main.87cfda33.chunk.js.map",
+  "static/js/1.575ef48b.chunk.js": "/interstellar/static/js/1.575ef48b.chunk.js",
+  "static/js/1.575ef48b.chunk.js.map": "/interstellar/static/js/1.575ef48b.chunk.js.map",
+  "runtime~main.js": "/interstellar/static/js/runtime~main.4918abfd.js",
+  "runtime~main.js.map": "/interstellar/static/js/runtime~main.4918abfd.js.map",
+  "static/media/astroVideo.mp4": "/interstellar/static/media/astroVideo.ec767506.mp4",
+  "static/media/astroImage.png": "/interstellar/static/media/astroImage.d8a2634f.png",
+  "static/media/HeroImageStyles.css": "/interstellar/static/media/heroImage.02a311ec.jpg",
+  "static/css/main.9ea1c2f9.chunk.css.map": "/interstellar/static/css/main.9ea1c2f9.chunk.css.map",
+  "index.html": "/interstellar/index.html",
+  "precache-manifest.6e4baff26174817f2f94e40b849ba77f.js": "/interstellar/precache-manifest.6e4baff26174817f2f94e40b849ba77f.js",
+  "service-worker.js": "/interstellar/service-worker.js"
+}
